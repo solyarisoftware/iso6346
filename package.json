@@ -1,0 +1,30 @@
+{
+  "name": "iso6346",
+  "version": "0.0.1",
+  "description": "intermodal (shipping) containers markings (ISO 6346) validator",
+  "main": "iso6346.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solyarisoftware/iso6346.git"
+  },
+  "keywords": [
+    "ISO6346",
+    "cargo",
+    "container",
+    "serial number",
+    "validation",
+    "check-digit"
+  ],
+  "author": "Giorgio Robino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solyarisoftware/iso6346/issues"
+  },
+  "bin": {
+    "iso6346": "./iso6346.js"
+  },
+  "homepage": "https://github.com/solyarisoftware/iso6346#readme"
+}
